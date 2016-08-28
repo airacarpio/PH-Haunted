@@ -1,0 +1,5 @@
+(c) 2016 Ph Haunted. Android Studio v2.1.1
+
+Save yourself from being trapped inside the haunted house.  This game usually involves the investigation and confrontation of horrific forces and thus this game transform common elements from horror fiction into gameplay challenges. Collect all keys required per level to escape the haunted house while avoiding all the ghost. Be ready to go key hunting. 
+
+This game was develped by 3 college students from Asia Pacific College taking BSIT major in Mobile and Internet, namely, Jana Marie Gardon, Aira Joyce Carpio and Kenneth Ferrer on the year 2016 as a project completion to their Mobile Programming class.

@@ -1,6 +1,8 @@
 Mechanics:
-You are locked inside the Laperal house at the middle of the night, your main goal is to escape while being attacked by the ghosts. Get all the keys asked to use as an escape from the house. Each level requires a particular number of keys to finish the level. The player must tap the screen to enables the character to jump over the ghost. He/she must not touch the ghost to avoid losing life or keys. Once he touched the ghost, 1 key from the keys he already collected will be deducted. 
+You are locked inside the Laperal house at the middle of the night, your main goal is to escape while being attacked by the ghosts. Get all the keys to use as an escape from the house. Each level requires a particular number of keys to finish the level. You must tap the screen to enables the character to jump and you must not touch the ghost to avoid losing your life or the keys you collected. But before you can fully escape the haunted house, you must solve the puzzle. There will be time limit so make sure you rely on your puzzle-solving skills and solve it as fast as you can. Arrange the tiles in their proper position to form the right image while you only have a limited move.
 Instructions:
 1.	To avoid the ghosts, jump over them by tapping the screen.
-2.	Collect all the keys, to escape the haunted house
-3.	Do not let yourself be touched by the ghost to avoid losing your life or keys.
+2.	Don’t touch the ghost or else you will lose a life and key you already collected.
+3.	Collect all the keys, to advance on the next challenge.
+4.	On the level 4, solve the puzzle as fast as you can by moving the tiles
+5.	Arrange the tiles in their proper order to form the image properly
